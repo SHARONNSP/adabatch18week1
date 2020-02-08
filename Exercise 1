@@ -1,0 +1,34 @@
+1)Give example of followings in HTML:
+a)Element - <p>this is a paragraph</p>
+b)Attributes - href 
+c)Entities- ©:&copy;	
+
+2)Cited different ways of defining the color white in CSS.
+HEX=#ffffff
+RBG=rbg(255,255,255)
+White
+
+3)What are the different ways of changing the state of a link?
+a:hover - a link when the user mouses over it
+a:visited - a link the user has visited.
+a:link - a normal, unvisited link.
+a:active - the moment a link is clicked.
+
+	
+4)How can you change font in your website?
+You can use the font-family property to change the font 
+of your Web page text, you can use the font-family 
+property. You can specify a font by name.
+
+5)What are different ways to include CSS into your HTML file?
+•In a file with .CSS extension.
+• Inside the HTML header directly.
+• Directly in the tag of the HTML file via style 
+ attribute.
+
+6)Cited the CSS properties for the following:
+
+a)Aligning text horizontally - horizon-aligh 	
+b)Aligning text vertically - vertical-aligh
+c)Transform to uppercase/lowercase - text-transform 
+d)Add strike into text. - text-decoration
